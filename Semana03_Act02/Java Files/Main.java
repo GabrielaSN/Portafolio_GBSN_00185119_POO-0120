@@ -114,7 +114,7 @@ public class Main {
     public static String autorCorreo(){
         Scanner scan = new Scanner(System.in);
         String mail;
-        boolean isOkay = false;
+        boolean Ok = false;
         do {
             System.out.print("correo: ");
             mail = scan.nextLine();
@@ -123,10 +123,10 @@ public class Main {
                 System.out.println("El mail no contiene '@', ingreselo de nuevo!");
             }
             else{
-                isOkay = true;
+                Ok = true;
             }
 
-        }while(!isOkay);
+        }while(!Ok);
 
         return mail;
     }
@@ -134,18 +134,18 @@ public class Main {
     public static char autorGenero(){
         Scanner scan = new Scanner(System.in);
         char g;
-        boolean gOkay = false;
+        boolean a = false;
         do {
             System.out.print("Genero ('m' o 'f'): ");
             g = scan.next().charAt(0);
             if( g == 'm' || g== 'f'){
-                gOkay=true;
+                a=true;
             }
             else{
                 System.out.println("Error! ingrese m o f");
             }
 
-        }while(!gOkay);
+        }while(!a);
 
         return g;
     }
