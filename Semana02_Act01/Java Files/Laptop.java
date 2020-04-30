@@ -56,3 +56,4 @@ public class Laptop {
         this.tamanio = tamanio;
     }
 }
+
