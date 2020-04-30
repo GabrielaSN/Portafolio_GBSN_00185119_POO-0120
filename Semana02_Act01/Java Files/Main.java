@@ -24,7 +24,7 @@ public class Main {
         System.out.println("Informacion de Laptop");
 
         Laptop lap = new Laptop();
-
+        
         lap.setMarca("Hp");
         lap.setMemoria(16);
         lap.setTamanio(14);
