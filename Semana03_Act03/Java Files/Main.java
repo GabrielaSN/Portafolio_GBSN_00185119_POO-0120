@@ -25,7 +25,7 @@ public class Main {
                     int pags = libroPags();
                     books.add(new Libro(nombre, pags));
                     break;
-
+                    
                 case 2:
                     System.out.println("\nQuitar un libro");
                     books.forEach(a-> System.out.println(a.toString()));
