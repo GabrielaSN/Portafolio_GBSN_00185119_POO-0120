@@ -1,0 +1,12 @@
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\bin\Debug\PreParcial1.exe.config
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\bin\Debug\PreParcial1.exe
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\bin\Debug\PreParcial1.pdb
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\obj\Debug\PreParcial1.csprojAssemblyReference.cache
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\obj\Debug\PreParcial1.Properties.Resources.resources
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\obj\Debug\PreParcial1.csproj.GenerateResource.cache
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\obj\Debug\PreParcial1.csproj.CoreCompileInputs.cache
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\obj\Debug\PreParcial1.exe
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\obj\Debug\PreParcial1.pdb
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\obj\Debug\PreParcial1.ChangeP.resources
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\obj\Debug\PreParcial1.Form1.resources
+C:\Users\gbsol\Desktop\RepoPortafolio00185119POO\Portafolio_GBSN_00185119_POO-0120\Semana09_Preparcial\PreParcial1\PreParcial1\obj\Debug\PreParcial1.Menu.resources
